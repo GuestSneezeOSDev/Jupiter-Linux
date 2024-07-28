@@ -2,4 +2,4 @@ wget https://steamdeck-packages.steamos.cloud/archlinux-mirror/sources/jupiter-3
 tar xvzf linux-neptune-61-6.1.52.valve9-1.src.tar.gz
 git clone linux-neptune-61/archlinux-linux-neptune/ linux-neptune
 cd linux-neptune
-git switch --create my-branch 6.1.52-valve9
+git switch --create steamos 6.1.52-valve9
